@@ -17,4 +17,4 @@ subject to
 cvx_end
 
 
-%resp 45 x e 6 y (6.25) em que o valor otimo é 1( 1.25 mas como arredondou 6.25)
+%resp 45 x e 6 y (6.25) em que o valor otimo Ã© 1( 1.25 mas como arredondou 6.25)
